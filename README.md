@@ -1,3 +1,8 @@
-# Hotel-Booking-Application
-Overview:
-Our application enables users to search for rooms by filtering based on their requirements. Upon logging in, users can effortlessly select rooms, with the flexibility to add or remove rooms from the dashboard. They can also confirm bookings for selected rooms and, if needed, cancel bookings at their discretion, providing seamless control over their accommodation choices.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
